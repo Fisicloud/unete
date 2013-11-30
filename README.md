@@ -24,6 +24,6 @@ mejorar.
 <strong>Antonio Cachuán</strong>
 <br>
 <br>
-<a href="goo.gl/QIy0mj">Site</a><br>
+<a href="http://goo.gl/QIy0mj">Site</a><br>
 <a href="https://www.facebook.com/fisicloud?ref=hl">FB Page</a><br>
-<a href="box.com/fisicloud">Document Repository</a>
+<a href="https://box.com/fisicloud">Document Repository</a>
